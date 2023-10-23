@@ -2,7 +2,7 @@
 
 This Github Repository is designated to store the code for the professional certificate course-series of the Deep Learning specialty. This course series contains the following coursers:
 
-1. Neural Networks and Deep Learning 
+1. [Neural Networks and Deep Learning](https://github.com/heejoon123/Deep_Learning_Coursera/tree/main/Course%201)
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 3. Structuring Machine Learning Projects
 4. Convolutional Neural Networks
