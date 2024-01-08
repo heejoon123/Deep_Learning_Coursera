@@ -15,3 +15,11 @@ This course consists of 4 weeks worth of materials.
 ## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 This course consists of 3 weeks worth of materials. During the 3 weeks, the course teaches more open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
+
+## Course 3: Structuring Machine Learning Projects
+
+This course consists of 2 weeks worth of materials. During the 2 weeks, the course teaches about ML Projects. 
+
+## Course 4: Convolutional Neural Networks
+
+This course consists of 4 weeks worth of materials. During the 4 weeks, the course teaches about Convolutional Neural Networks. 
