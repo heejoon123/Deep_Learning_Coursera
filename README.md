@@ -5,7 +5,7 @@ This Github Repository is designated to store the code for the professional cert
 1. [Neural Networks and Deep Learning](https://github.com/heejoon123/Deep_Learning_Coursera/tree/main/Course%201)
 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/heejoon123/Deep_Learning_Coursera/tree/main/Course%202)
 3. Structuring Machine Learning Projects
-4. Convolutional Neural Networks
+4. [Convolutional Neural Networks](https://github.com/heejoon123/Deep_Learning_Coursera/tree/main/Course%204)
 5. Sequence Models
 
 ## Course 1: Neural Networks and Deep Learning
